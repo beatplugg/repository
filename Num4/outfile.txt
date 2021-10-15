@@ -1,0 +1,7 @@
+So many tests today
+YES IM A LAME IN BASH
+BUT I TRY TO BE BETTER
+This is an error test
+This is a normal output
+im sasha
+error example
